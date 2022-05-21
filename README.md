@@ -36,7 +36,8 @@ I worked line by line to to build each individual part of the code.
   -   A great example of this was the end_analytics fuction that i used. I tried creating one in the beginning but couldnt get the behavior that i wanted out of the function so i built it as copy pasta fisrt, then replaced it after.
   -   My goal was to go for "Exceeds expectations" with this project, so i made sure to include those in my "must haves" when planning out how i was going to make this code.
 I definitely wanted to build additional features when i saw it was allowed the two additional features i wanted.
-  -   The high score to also displat the name of the person that got it.
-  -   There to be a difficulty level
+  -   The high score to also display the name of the person that got it.
+  -   There to be a difficulty level that decides wheteher or not invalid entries are counted towards your guesses.
        - The difficulty was something that I thought of very late in the process.
        - It ended up being much easier than i expected, but it was a good example of "someone will always want changes to your code", and in this case i was the "someone".
+       - Adding the difficulty does not really change the game too much if you are actually entering the number.
