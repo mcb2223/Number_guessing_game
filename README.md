@@ -19,8 +19,8 @@ Team Treehouse Python Techdegree Project 1: A Number Guessing Game
     
     ( You can add more features/enhancements if you'd like to. )
     
-     write your code inside this function.
-Kick off the program by calling the start_game function.
+     write your code inside this function. Def start_game
+    Kick off the program by calling the start_game function.
 
 ### Exceeds expectations requirements
 
