@@ -1,11 +1,12 @@
 #This is my Number Guessing Game in Python for Project 1 of techdegree.
    - It will tell you whether or not your guess is high
-   - It is very straightforward to play and i hope you enjoy.
+   - It is very straightforward to play and I hope you enjoy.
 
 # A note to whoever is grading this.
    - I created this in an older version of python that does not allow to pass a variable into a string with the .format() because it is the newest version of python my work laptop will allow.
    - After i fully debugged the project i created a new file with the .format() and uploaded it onto here.
    - I then had to make other minor changes to ensure it functioned. I used one of the modules within a course to test to ensure it worked as it was supposed to.
+   - I also ran into IT issues when trying to use Slack, so i was unable to submit my code for pre-review.
 
 #A Number Guessing Game
 
