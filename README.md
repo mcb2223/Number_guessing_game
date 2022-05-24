@@ -7,6 +7,7 @@
    - After i fully debugged the project i created a new file with the .format() and uploaded it onto here.
    - I then had to make other minor changes to ensure it functioned. I used one of the modules within a course to test to ensure it worked as it was supposed to.
    - I also ran into IT issues when trying to use Slack, so i was unable to submit my code for pre-review.
+      -I was able to have one of my companies programmers look over the code with the grading criteria.
 
 #A Number Guessing Game
 
